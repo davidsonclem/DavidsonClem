@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #03a9f4ed;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #824027;
+  color: #ff9800;
   text-decoration: underline;
 }
 
@@ -6100,6 +6100,12 @@ a.close.disabled {
   background-color: #bd5d38 !important;
 }
 
+.br-tricor{
+background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+
+
+
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
@@ -9799,7 +9805,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #03a9f4ed !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10064,7 +10070,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border: 0.5rem solid rgba(255, 255, 255, 1);
   }
   #sideNav .navbar-collapse {
     display: flex;
@@ -10090,7 +10096,7 @@ p.lead {
   justify-content: center;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #495057;
+  background-color: #9e9e9e;
   color: #fff;
   border-radius: 100%;
   font-size: 1.5rem;
@@ -10100,7 +10106,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #03a9f4ed;
 }
 
 .dev-icons {
