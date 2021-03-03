@@ -1,17 +1,17 @@
 
 <img width="auto" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/banner2.png">
 
-# Olá, sou o Davidson Clem. <img alt=" " width="48px" src="https://github.com/davidsonclem/DavidsonClem/tree/master/assets/img/Hi.gif" />
+# Olá, sou o Davidson Clem. <img alt=" " width="48px" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/Hi.gif" />
 <br/>
 <p align="left">
   <a href="https://www.linkedin.com/in/davidson-clem/">
-    <img alt="LinkedIn" width="22px" src="https://github.com/davidsonclem/DavidsonClem/tree/master/assets/img/052-linkedin.svg" />
+    <img alt="LinkedIn" width="22px" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/052-linkedin.svg" />
   </a>&ensp;
  <a href="mailto:davidson.klain@gmail.com">
-    <img alt="Email" width="22px" src="https://github.com/davidsonclem/DavidsonClem/tree/master/assets/img/gmail.svg" />
+    <img alt="Email" width="22px" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/gmail.svg" />
   </a>&ensp;
   <a href="https://www.instagram.com/davidson.clem/">
-    <img alt="Instagram" width="22px" src="https://github.com/davidsonclem/DavidsonClem/tree/master/assets/img//044-instagram.svg" />
+    <img alt="Instagram" width="22px" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img//044-instagram.svg" />
   </a>&ensp;
   <a href="https://twitter.com/Davidsonclem">
     <img alt="Instagram" width="22px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png" />
@@ -35,9 +35,20 @@
   
 <h3 align="center" >Minha Stack</h3>
   <p align="center">
-    <img alt="JavaScript" width="26px" src="https://github.com/davidsonclem/DavidsonClem/tree/master/assets/img/javascript.svg" />
-    <img alt="React" width="26px" src="https://github.com/davidsonclem/DavidsonClem/tree/master/assets/img/reactjs.svg" />
-    <img alt="Node.js" width="26px" src="https://github.com/davidsonclem/DavidsonClem/tree/master/assets/img/node.svg" />
+    <img alt="JavaScript" width="26px" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/javascript.svg" />
+    <img alt="React" width="26px" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/reactjs.svg" />
+    <img alt="Node.js" width="26px" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/node.svg" />
   </p>
- 
- 
+  
+ <h3 align="center" >Vamos nos conectar 😉</h3>
+  <p align="center">
+     <a href="https://www.linkedin.com/in/davidson-clem/">
+      <img alt="LinkedIn" width="22px" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/052-linkedin.svg" />
+    </a>
+    <a href="mailto:davidson.klain@gmail.com">
+      <img alt="Email" width="22px" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/gmail.svg" />
+    </a>&ensp;
+    <a href="https://app.rocketseat.com.br/me/davidson-clem">
+     <img alt="Meu site" width="22px" src="https://rocketseat.com.br/icons/icon-48x48.png" />
+    </a>
+</p>
