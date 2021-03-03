@@ -1,7 +1,7 @@
 
 <img width="auto" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/banner2.png">
 
-# Olá, sou o Davidson Clem. <img alt=" " width="48px" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/Hi.gif" />
+# Olá, sou o Davidson Clem. <img alt="Olá" width="48px" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/Hi.gif" />
 <br/>
 <p align="left">
   <a href="https://www.linkedin.com/in/davidson-clem/">
@@ -32,6 +32,9 @@
   <br/> 💻 &nbsp; Minha stack: ReactJS, Node.js, React Native
   <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, games como Call Of Duty e jogos de estratégia.
 </p> 
+  
+
+<img align="Center" alt="GIF" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/gif3.gif" width="300"/>
   
 <h3 align="center" >Minha Stack</h3>
   <p align="center">
