@@ -33,9 +33,8 @@
   <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, games como Call Of Duty e jogos de estratégia.
 </p> 
   
+<p  align="Center"><img alt="GIF" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/gif3.gif" width="300"/></p> 
 
-<img align="Center" alt="GIF" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/gif3.gif" width="300"/>
-  
 <h3 align="center" >Minha Stack</h3>
   <p align="center">
     <img alt="JavaScript" width="26px" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/javascript.svg" />
