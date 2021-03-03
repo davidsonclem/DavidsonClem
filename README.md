@@ -40,6 +40,19 @@
     <img alt="Node.js" width="26px" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/node.svg" />
   </p>
   
+  <details open>
+    <summary>📈 <b>Github Status</b>:</summary>
+      <br>
+      <p align="center">
+       <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=DavidsonClem&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=radical"/>     
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidsonClem&layout=compact&theme=tokyonight">
+       <div/>
+      </p>
+
+  </details>
+  
+  
  <h3 align="center" >Vamos nos conectar 😉</h3>
   <p align="center">
      <a href="https://www.linkedin.com/in/davidson-clem/">
