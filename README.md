@@ -26,7 +26,7 @@
  <p>Sou desenvolvedor e Graduado em Sistemas de Informação, fascinado por desenvolvimento de software e pela forma como a tecnologia pode impactar a vida das pessoas.  <br/> 
   Trabalho  com as seguinte tecnologias de Oracle SQL, MySql e Postgres, Java, HTML5, CSS3, SASS, JS, ReactJS, ReactNative e NodeJS 💻
   <br/> <br/> 
-  🏥 &nbsp; Trabalho na empresa <a href="http://www.wedotec.com.br"></a>   
+  🏥 &nbsp; Trabalho na empresa <a href="http://www.wedotec.com.br">Wedo Tecnologia</a>   
   <br/> 💜 &nbsp; Buscando colaborar com projetos em Front-end e Back-end usando React
   <br/> 😊 &nbsp; Posso te ajudar com  ReactJS, Node.js, React Native.
   <br/> 💻 &nbsp; Minha stack: ReactJS, Node.js, React Native
