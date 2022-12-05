@@ -1,5 +1,5 @@
 
-<img width="auto" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/banner2.png">
+<img width="auto" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/banner5.png">
 
 # Olá, sou o Davidson Clem. <img alt="Olá" width="48px" src="https://github.com/davidsonclem/DavidsonClem/blob/master/assets/img/Hi.gif" />
 <br/>
