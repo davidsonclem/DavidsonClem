@@ -16,8 +16,8 @@
   <a href="https://twitter.com/Davidsonclem">
     <img alt="Instagram" width="22px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png" />
   </a>&ensp;
-   <a href="https://app.rocketseat.com.br/me/davidson-clem">
-    <img alt="Meu site" width="22px" src="https://rocketseat.com.br/icons/icon-48x48.png" />
+   <a href="https://onama.online/">
+   <!-- <img alt="Meu site" width="22px" src="https://rocketseat.com.br/icons/icon-48x48.png" />-->
   </a>
  </p>
  
