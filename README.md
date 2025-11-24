@@ -10,10 +10,7 @@
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5789-7138)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=about.me&logoColor=white)](https://onama.online/)
 
----
-
-### 🌐 This README is also available in:  
-👉 [🇧🇷 Português (README.pt.md)](README.pt.md)
+[🇧🇷 Versão em Português](README.pt.md)
 
 </div>
 
@@ -21,11 +18,12 @@
 
 ## 🎯 About Me
 
-Brazilian Army **Officer** with over **16 years of experience in IT**, specialized in **Artificial Intelligence**, **Machine Learning**, and **Quantum Computing**. I work at the intersection of technology and education, leading innovative projects involving **Augmented Reality (AR)**, **Extended Reality (XR)**, and **Intelligent Tutoring Systems**.
+Software Developer and Data Scientist with solid experience in systems development, data analysis, and artificial intelligence. Specialist in **Quantum Computing** and **Software Engineering**, with strong expertise in system architecture, databases, and full-stack development.
 
-🎓 **Researcher** at DECEx (Department of Education and Culture of the Army)  
-💼 **Systems Analyst** – Brazilian Army  
-🤖 **AI Specialist** focused on predictive models and prompt engineering  
+I currently work as a **Systems Analyst** for the Brazilian Army, developing innovative solutions and conducting applied research in quantum computing and machine learning.
+
+🎓 **Researcher** at DECEx (Army Department of Education and Culture)  
+🔬 **AI Specialist** focused on predictive models and prompt engineering  
 🌍 **Location:** Rio de Janeiro, Brazil
 
 ---
@@ -34,10 +32,10 @@ Brazilian Army **Officer** with over **16 years of experience in IT**, specializ
 
 | Degree | Course | Institution | Period |
 |:---|:---|:---|:---:|
-| **Postgraduate** | Quantum Computing | SENAI CIMATEC | 2025–2026 |
-| **Postgraduate** | Data Analysis – Public Policy | UFRRJ | 2025–2026 |
-| **Specialization** | Software Engineering | UNIABEU | 2021–2022 |
-| **Bachelor's** | Information Systems | FAETERJ-RJ | 2008–2011 |
+| **Postgraduate** | Quantum Computing | SENAI CIMATEC | 2025-2026 |
+| **Postgraduate** | Data Analysis – Public Policy | UFRRJ | 2025-2026 |
+| **Postgraduate** | Software Engineering | UNIABEU | 2021-2022 |
+| **Bachelor’s Degree** | Information Systems | FAETERJ-RJ | 2008-2011 |
 
 ---
 
@@ -72,36 +70,36 @@ Brazilian Army **Officer** with over **16 years of experience in IT**, specializ
 ## 🏆 Certifications
 
 - 🎯 **Scrum Foundation Professional Certificate (SFPC)**
-- 🤖 **Prompt Engineering for Generative AI**
-- 📚 **AI and the New Workforce Competencies for Teachers**
+- 🤖 **Prompt Engineering: Learn to Communicate with Generative AI**
+- 📚 **Artificial Intelligence and New Work Competencies for Educators**
 - 🔒 **Cybersecurity Awareness – CAPC**
 
 ---
 
 ## 🔬 Research & Interests
 
-- 🌌 **Quantum Computing** – Algorithms, circuits, practical implementations  
-- 🤖 **Artificial Intelligence** – Predictive modeling, LLMs, prompt engineering  
-- 📊 **Data Science** – Analytics, ML pipelines, visualization  
-- 🎓 **Educational Innovation** – Intelligent tutoring systems, immersive learning  
+- 🌌 **Quantum Computing** – Quantum algorithms, circuits, and practical applications  
+- 🤖 **Artificial Intelligence** – Predictive models, LLMs, prompt engineering  
+- 📊 **Data Science** – Data analysis, ML pipelines, visualization  
+- 🎓 **Educational Innovation** – Intelligent Tutoring Systems, virtual learning environments  
 
 ---
 
 ## 🚀 Featured Projects
 
-🔬 **Quantum Computing** – Practical experiments with Qiskit  
-🤖 **Educational AI** – Intelligent tutoring systems for the Brazilian Army  
-🥽 **Extended Reality** – Immersive training simulations powered by AI  
-📊 **Data Analytics** – Pipelines for public policy and education applications  
+🔬 **Quantum Computing** – Practical implementations with Qiskit  
+🤖 **AI for Education** – Intelligent tutoring systems for the Brazilian Army  
+🥽 **Extended Reality** – Immersive training simulators powered by AI  
+📊 **Data Analysis** – Pipelines for public policy and education  
 
 ---
 
 ## 💡 Currently Working On
 
-- 🎓 Pursuing **Quantum Computing Postgraduate Program** (SENAI CIMATEC)  
-- 📊 Pursuing **Data Analysis Postgraduate Program** (UFRRJ)  
+- 🎓 Postgraduate studies in **Quantum Computing** (SENAI CIMATEC)  
+- 📊 Postgraduate studies in **Data Analysis** (UFRRJ)  
 - 🤖 Developing **AI solutions** for virtual learning environments  
-- 🌌 Exploring quantum algorithms and practical applications  
+- 🌌 Exploring quantum algorithms and real-world applications  
 
 ---
 
@@ -111,7 +109,7 @@ Brazilian Army **Officer** with over **16 years of experience in IT**, specializ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/davidson-clem/)
 [![Email](https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:davidson.clem@yahoo.com.br)
-[![Lattes](https://img.shields.io/badge/Lattes-CV-orange?style=for-the-badge)](http://lattes.cnpq.br/9426087283435184)
+[![Lattes](https://img.shields.io/badge/Lattes-Curriculum-orange?style=for-the-badge)](http://lattes.cnpq.br/9426087283435184)
 
 </div>
 
@@ -121,6 +119,4 @@ Brazilian Army **Officer** with over **16 years of experience in IT**, specializ
 
 *"The future is quantum, data-driven, and powered by AI."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=DavidsonClem&color=blueviolet&style=flat-square&label=Visitors)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=DavidsonClem&color=blu)
