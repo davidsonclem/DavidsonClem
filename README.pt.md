@@ -16,10 +16,11 @@
 
 ## 🎯 Sobre Mim
 
-Oficial do **Exército Brasileiro** com mais de **16 anos de experiência em TI**, especializado em **Inteligência Artificial**, **Machine Learning** e **Computação Quântica**. Atuo na interseção entre tecnologia e educação, liderando projetos inovadores com **Realidade Aumentada (RA)**, **Realidade Estendida (XR)** e **Sistemas Tutores Inteligentes**.
+Desenvolvedor de Software e Cientista de Dados com em desenvolvimento de sistemas, análise de dados e inteligência artificial. Especialista em **Computação Quântica** e **Engenharia de Software**, com forte atuação em arquitetura de sistemas, bancos de dados e desenvolvimento full stack.
+
+Atuo como **Analista de Sistemas** no Exército Brasileiro, desenvolvendo soluções inovadoras e realizando pesquisas aplicadas na área de computação quântica e machine learning .
 
 🎓 **Pesquisador** no DECEx (Departamento de Educação e Cultura do Exército)  
-💼 **Analista de Sistemas** - Exército Brasileiro  
 🔬 **Especialista em IA** com foco em modelos preditivos e engenharia de prompt  
 🌍 **Localização:** Rio de Janeiro, Brasil
 
